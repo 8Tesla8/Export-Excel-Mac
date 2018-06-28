@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C8E77238-7AD7-4C0B-811B-86D6A6FB4BF4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExcelMac2/Main.cs">
+    <Files>
+      <File FileName="ExcelMac2/AppDelegate.cs" Line="19" Column="10" />
+      <File FileName="ExcelMac2/ViewController.cs" Line="108" Column="50" />
+      <File FileName="ExcelMac2/Main.cs" Line="8" Column="6" />
+      <File FileName="ExcelMac2/Additional/ErrorCatcher.cs" Line="14" Column="10" />
+      <File FileName="ExcelMac2/Additional/AlertManager.cs" Line="6" Column="9" />
+      <File FileName="ExcelMac2/Additional/AlertWindow.cs" Line="8" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.ExcelMac2 PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
